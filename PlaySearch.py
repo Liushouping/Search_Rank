@@ -60,7 +60,7 @@ def create_excel_file(results):
     print(f"结果已保存到 {filename}")
 
 # 输入要搜索的關鍵字列表、目標網址列表、API相關信息以及搜索的頁數
-keywords = ["小琉球灣琉", "小琉球星空villa灣流", "小琉球民宿villa"]
+keywords = ["小琉球民宿", "小琉球星空villa", "小琉球民宿villa"]
 target_urls = ["https://itravelblog.net"]
 api_key = "AIzaSyC0DnMS-HPZAJsS97K2hMi2Ox5Zg_yzNrs"
 cx = "e10861c636c934547"
